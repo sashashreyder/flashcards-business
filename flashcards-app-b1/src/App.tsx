@@ -12,7 +12,7 @@ interface FlashcardItem {
   word: string;
   ipa?: string; 
   meaning: string;
-  example: string;
+  example: string;  
 }
 
 interface Category {
