@@ -1,0 +1,66 @@
+{
+    "title": "Expanding the Area",
+    "categories": [
+      {
+        "name": "Vocabulary",
+        "items": [
+          { "word": "Dealbreaker", "ipa": "/ˈdiːlˌbreɪ.kər/", "meaning": "A factor that makes an agreement impossible.", "example": "The non-compete clause was a dealbreaker for the merger." },
+          { "word": "Disruptor", "ipa": "/dɪsˈrʌp.tər/", "meaning": "A company that changes traditional business models.", "example": "Uber was a major disruptor in the taxi industry." },
+          { "word": "Licensing", "ipa": "/ˈlaɪ.sən.sɪŋ/", "meaning": "Official permission to use something (e.g., technology).", "example": "We need licensing to manufacture this patented product." },
+          { "word": "Logistics", "ipa": "/ləˈdʒɪs.tɪks/", "meaning": "Organization of moving goods/services.", "example": "Our logistics team handles all international shipping." },
+          { "word": "Outpost", "ipa": "/ˈaʊt.pəʊst/", "meaning": "Small office in a new location.", "example": "We opened an outpost in Singapore last quarter." },
+          { "word": "Recognition", "ipa": "/ˌrek.əɡˈnɪʃ.ən/", "meaning": "Being known for something good.", "example": "Our brand recognition grew by 30% this year." },
+          { "word": "Saturation", "ipa": "/ˌsætʃ.əˈreɪ.ʃən/", "meaning": "When a market has too many similar products.", "example": "The smartphone market is reaching saturation." },
+          { "word": "Sustainability", "ipa": "/səˌsteɪ.nəˈbɪl.ə.ti/", "meaning": "Operating without harming future resources.", "example": "Sustainability is now key to our packaging design." },
+          { "word": "Workforce", "ipa": "/ˈwɜːk.fɔːs/", "meaning": "All employees of a company.", "example": "Our workforce has doubled since 2020." },
+          { "word": "Zoning", "ipa": "/ˈzəʊ.nɪŋ/", "meaning": "Laws about land/building use.", "example": "Zoning restrictions prevent factories in this area." }
+        ]
+      },
+      {
+        "name": "Actions",
+        "items": [
+          { "word": "To acquire", "ipa": "/əˈkwaɪər/", "meaning": "To buy another company.", "example": "Facebook acquired Instagram in 2012." },
+          { "word": "To amplify", "ipa": "/ˈæm.plɪ.faɪ/", "meaning": "To make something stronger/more noticeable.", "example": "We amplified our social media presence." },
+          { "word": "To countertrade", "ipa": "/ˈkaʊn.tə.treɪd/", "meaning": "To exchange goods instead of using money.", "example": "We countertraded oil for machinery." },
+          { "word": "To domicile", "ipa": "/ˈdɒm.ɪ.saɪl/", "meaning": "To establish a company's legal home.", "example": "Many firms domicile in tax-friendly countries." },
+          { "word": "To encroach", "ipa": "/ɪnˈkrəʊtʃ/", "meaning": "To gradually take another's market share.", "example": "Our competitor is encroaching on our territory." },
+          { "word": "To re-export", "ipa": "/ˌriːˈek.spɔːt/", "meaning": "To export imported goods without changes.", "example": "We import then re-export these components." },
+          { "word": "To scale up", "ipa": "/skeɪl ʌp/", "meaning": "To grow operations significantly.", "example": "We're scaling up production for the holiday season." },
+          { "word": "To syndicate", "ipa": "/ˈsɪn.dɪ.keɪt/", "meaning": "To share risk among multiple investors.", "example": "The loan was syndicated across three banks." },
+          { "word": "To transcreate", "ipa": "/ˌtræns.kriˈeɪt/", "meaning": "To adapt marketing for different cultures.", "example": "We transcreated ads for the Japanese market." },
+          { "word": "To underwrite", "ipa": "/ˈʌn.də.raɪt/", "meaning": "To guarantee financial risk.", "example": "The bank will underwrite our expansion costs." }
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          { "word": "Advisable", "ipa": "/ədˈvaɪ.zə.bəl/", "meaning": "Recommended as wise.", "example": "Early registration is advisable for this popular event." },
+          { "word": "Bilateral", "ipa": "/ˌbaɪˈlæt.ər.əl/", "meaning": "Involving two parties/countries.", "example": "The bilateral trade agreement helped both nations." },
+          { "word": "Bleeding-edge", "ipa": "/ˈbliː.dɪŋ ˌedʒ/", "meaning": "Extremely advanced (technology).", "example": "We work with bleeding-edge AI systems." },
+          { "word": "Cross-border", "ipa": "/ˌkrɒsˈbɔː.dər/", "meaning": "Between different countries.", "example": "Cross-border payments can be complicated." },
+          { "word": "Digital-first", "ipa": "/ˌdɪdʒ.ɪ.təlˈfɜːst/", "meaning": "Prioritizing online channels.", "example": "We’re a digital-first company with no physical stores." },
+          { "word": "Embargo-affected", "ipa": "/ɪmˈbɑː.ɡəʊ əˈfek.tɪd/", "meaning": "Impacted by trade restrictions.", "example": "Embargo-affected goods cannot be imported." },
+          { "word": "Geographically-dispersed", "ipa": "/ˌdʒiː.əˈɡræf.ɪ.kəl.i dɪˈspɜːst/", "meaning": "Spread across many locations.", "example": "Our geographically-dispersed team works remotely." },
+          { "word": "Price-competitive", "ipa": "/praɪs kəmˈpet.ɪ.tɪv/", "meaning": "Offering good value for money.", "example": "Our new model is more price-competitive." },
+          { "word": "Sanction-proof", "ipa": "/ˈsæŋk.ʃən pruːf/", "meaning": "Protected against trade bans.", "example": "We built sanction-proof supply chains." },
+          { "word": "Tariff-free", "ipa": "/ˈtær.ɪf friː/", "meaning": "Without import/export taxes.", "example": "Goods move tariff-free within the trade bloc." }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "Cultural mismatch", "ipa": "/ˈkʌl.tʃər.əl ˈmɪs.mætʃ/", "meaning": "When business styles don't align.", "example": "The joint venture failed due to cultural mismatch." },
+          { "word": "Import quotas", "ipa": "/ˈɪm.pɔːt ˈkwəʊ.təz/", "meaning": "Limits on imported goods.", "example": "Import quotas protect local manufacturers." },
+          { "word": "Low-hanging fruit", "ipa": "/ˌləʊ ˈhæŋ.ɪŋ fruːt/", "meaning": "Easy-to-achieve opportunities.", "example": "Let's target low-hanging fruit first for quick wins." },
+          { "word": "Market penetration", "ipa": "/ˈmɑː.kɪt ˌpen.ɪˈtreɪ.ʃən/", "meaning": "Percentage of potential customers reached.", "example": "Our market penetration is 65% in Europe." },
+          { "word": "Regulatory hurdle", "ipa": "/ˈreɡ.jə.lə.tər.i ˈhɜː.dəl/", "meaning": "Legal obstacle to business.", "example": "Safety tests are our biggest regulatory hurdle." },
+          { "word": "Talent shortages", "ipa": "/ˈtæl.ənt ˈʃɔː.tɪ.dʒɪz/", "meaning": "Not enough skilled workers.", "example": "Tech companies face talent shortages." },
+          { "word": "To address a pain point", "ipa": "/əˈdres ə peɪn pɔɪnt/", "meaning": "Solve a customer's problem.", "example": "Our software addresses accounting pain points." },
+          { "word": "To keep the door open", "ipa": "/tuː kiːp ðə dɔːr ˈəʊ.pən/", "meaning": "To maintain future possibilities.", "example": "Let’s keep the door open for collaboration." },
+          { "word": "To raise the stakes", "ipa": "/tuː reɪz ðə steɪks/", "meaning": "To increase importance/risk.", "example": "The new investment raises the stakes." },
+          { "word": "To think outside the box", "ipa": "/θɪŋk aʊtˈsaɪd ðə bɒks/", "meaning": "To find creative solutions.", "example": "We need to think outside the box on pricing." }
+        ]
+      }
+    ]
+  }
+  

@@ -1,0 +1,67 @@
+{
+    "title": "At the Business Conference",
+    "categories": [
+      {
+        "name": "Vocabulary",
+        "items": [
+          { "word": "Badge", "ipa": "/bædʒ/", "meaning": "A card with your name and company, worn at events.", "example": "Don't forget to wear your conference badge for entry." },
+          { "word": "Booth", "ipa": "/buːθ/", "meaning": "A small area where companies display products.", "example": "Visit our booth to try the new software demo." },
+          { "word": "Catering", "ipa": "/ˈkeɪ.tər.ɪŋ/", "meaning": "Food and drinks provided at an event.", "example": "The conference catering includes vegan options." },
+          { "word": "Mindshare", "ipa": "/ˈmaɪnd.ʃeər/", "meaning": "How much people think about your brand.", "example": "Our ads increased mindshare among young professionals." },
+          { "word": "Pitch", "ipa": "/pɪtʃ/", "meaning": "A short presentation to sell an idea.", "example": "She gave a great pitch to potential investors." },
+          { "word": "Roadmap", "ipa": "/ˈrəʊd.mæp/", "meaning": "Plan for future product development.", "example": "Our roadmap shows new features coming next year." },
+          { "word": "Showcase", "ipa": "/ˈʃəʊ.keɪs/", "meaning": "An event to display products/services.", "example": "The tech showcase attracted 500 visitors." },
+          { "word": "Sponsorship", "ipa": "/ˈspɒn.sə.ʃɪp/", "meaning": "When a company pays to support an event.", "example": "Google’s sponsorship paid for the main stage." },
+          { "word": "Takeaway", "ipa": "/ˈteɪ.kə.weɪ/", "meaning": "Key lesson learned from an event.", "example": "My biggest takeaway was the new marketing strategy." },
+          { "word": "Workshop", "ipa": "/ˈwɜːk.ʃɒp/", "meaning": "Interactive training session.", "example": "Join our workshop to improve negotiation skills." }
+        ]
+      },
+      {
+        "name": "Actions",
+        "items": [
+          { "word": "To appeal", "ipa": "/əˈpiːl/", "meaning": "To be attractive/interesting to someone.", "example": "This design appeals to younger customers." },
+          { "word": "To brand", "ipa": "/brænd/", "meaning": "To create an image for a product/company.", "example": "We branded our company as eco-friendly." },
+          { "word": "To broadcast", "ipa": "/ˈbrɔːd.kɑːst/", "meaning": "To send out a video/audio live.", "example": "We'll broadcast the keynote speech online." },
+          { "word": "To circle back", "ipa": "/ˈsɜː.kəl bæk/", "meaning": "To return to a topic later.", "example": "Let's circle back to this after lunch." },
+          { "word": "To curate", "ipa": "/kjʊˈreɪt/", "meaning": "To carefully select content.", "example": "We curated the best speakers for the event." },
+          { "word": "To host", "ipa": "/həʊst/", "meaning": "To organize/run an event.", "example": "Berlin will host next year's conference." },
+          { "word": "To interrupt", "ipa": "/ˌɪn.təˈrʌpt/", "meaning": "To politely stop someone speaking.", "example": "May I interrupt to ask a quick question?" },
+          { "word": "To table", "ipa": "/ˈteɪ.bəl/", "meaning": "To postpone discussion.", "example": "Let's table this until the next meeting." },
+          { "word": "To timekeep", "ipa": "/ˈtaɪm.kiːp/", "meaning": "To track speaking times.", "example": "Could you timekeep for our presentations?" },
+          { "word": "To wrap up", "ipa": "/ræp ʌp/", "meaning": "To finish something.", "example": "Let's wrap up by 3pm today." }
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          { "word": "AI-powered", "ipa": "/ˌeɪ.aɪ ˈpaʊ.əd/", "meaning": "Using artificial intelligence.", "example": "We use AI-powered tools for translations." },
+          { "word": "Concisely", "ipa": "/kənˈsaɪs.li/", "meaning": "Briefly and clearly.", "example": "Please explain your idea concisely." },
+          { "word": "Concise", "ipa": "/kənˈsaɪs/", "meaning": "Short but complete.", "example": "Her report was very concise – only 2 pages." },
+          { "word": "Insightful", "ipa": "/ɪnˈsaɪt.fəl/", "meaning": "Showing deep understanding.", "example": "The speaker gave insightful market analysis." },
+          { "word": "Minds-on", "ipa": "/ˌmaɪndzˈɒn/", "meaning": "Requiring active thinking.", "example": "This minds-on workshop challenges participants." },
+          { "word": "Overbooked", "ipa": "/ˌəʊ.vəˈbʊkt/", "meaning": "Too many people registered.", "example": "The session is overbooked – arrive early!" },
+          { "word": "Overwhelming", "ipa": "/ˌəʊ.vəˈwel.mɪŋ/", "meaning": "Too much to handle.", "example": "The amount of information was overwhelming." },
+          { "word": "Persuasively", "ipa": "/pəˈsweɪ.sɪv.li/", "meaning": "In a convincing way.", "example": "He argued persuasively for the new strategy." },
+          { "word": "Standing-room-only", "ipa": "/ˌstæn.dɪŋ ruːm ˈəʊn.li/", "meaning": "Completely full (no seats left).", "example": "The popular talk was standing-room-only." },
+          { "word": "Underwhelming", "ipa": "/ˌʌn.dəˈwel.mɪŋ/", "meaning": "Disappointing.", "example": "The product demo was underwhelming." }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "Q&A session", "ipa": "/ˌkjuː ən ˈeɪ ˌseʃ.ən/", "meaning": "Time for questions and answers.", "example": "We'll have a 15-minute Q&A session after." },
+          { "word": "Breakout session", "ipa": "/ˈbreɪk.aʊt ˌseʃ.ən/", "meaning": "Small group discussion.", "example": "Join breakout session 3 for tech topics." },
+          { "word": "Content Hub", "ipa": "/ˈkɒn.tent hʌb/", "meaning": "Central place for event materials.", "example": "Download slides from the Content Hub." },
+          { "word": "Exhibition area", "ipa": "/ˌek.sɪˈbɪʃ.ən ˈeə.ri.ə/", "meaning": "Space where companies display products.", "example": "The exhibition area opens at 10am." },
+          { "word": "Game changer", "ipa": "/ˈɡeɪm ˌtʃeɪn.dʒər/", "meaning": "Something that completely changes things.", "example": "This software is a game changer for our industry." },
+          { "word": "Food for thought", "ipa": "/fuːd fə θɔːt/", "meaning": "Ideas to think about.", "example": "The presentation gave us food for thought." },
+          { "word": "On the fly", "ipa": "/ɒn ðə flaɪ/", "meaning": "Without preparation.", "example": "I had to answer questions on the fly." },
+          { "word": "To be death-by-PowerPoint", "ipa": "/dɛθ baɪ ˈpaʊə.pɔɪnt/", "meaning": "A boring presentation with too many slides.", "example": "Avoid death-by-PowerPoint – use more visuals!" },
+          { "word": "To get down to business", "ipa": "/ɡet daʊn tə ˈbɪz.nəs/", "meaning": "To start serious discussion.", "example": "After coffee, we’ll get down to business." },
+          { "word": "To take it offline", "ipa": "/teɪk ɪt ˌɒfˈlaɪn/", "meaning": "Discuss privately later.", "example": "Let’s take this offline and talk tomorrow." },
+          { "word": "To touch base", "ipa": "/tʌtʃ beɪs/", "meaning": "To make brief contact.", "example": "I'll touch base with you next week." }
+        ]
+      }
+    ]
+  }
+  

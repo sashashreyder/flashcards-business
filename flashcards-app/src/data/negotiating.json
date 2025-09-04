@@ -1,0 +1,167 @@
+{
+    "title": "Negotiating",
+    "categories": [
+      {
+        "name": "Terms",
+        "items": [
+          {
+            "word": "Bargaining",
+            "ipa": "/ˈbɑː.ɡən.ɪŋ/",
+            "meaning": "The process of negotiating terms.",
+            "example": "After hours of bargaining, we agreed on a 10% discount."
+          },
+          {
+            "word": "Consensus",
+            "ipa": "/kənˈsen.səs/",
+            "meaning": "General agreement among all parties.",
+            "example": "We reached consensus on the delivery timeline."
+          },
+          {
+            "word": "Escalation",
+            "ipa": "/ˌes.kəˈleɪ.ʃən/",
+            "meaning": "Bringing in higher authorities to resolve a dispute.",
+            "example": "The pricing issue required escalation to the VP."
+          },
+          {
+            "word": "Goalpost",
+            "ipa": "/ˈɡəʊl.pəʊst/",
+            "meaning": "Changing agreed targets or criteria.",
+            "example": "They kept moving the goalposts during negotiations."
+          },
+          {
+            "word": "Goodwill",
+            "ipa": "/ˌɡʊdˈwɪl/",
+            "meaning": "Positive relationship capital.",
+            "example": "Offering a free demo built goodwill with the client."
+          },
+          {
+            "word": "Logrolling",
+            "ipa": "/ˈlɒɡˌrəʊ.lɪŋ/",
+            "meaning": "Trading concessions on low-priority items.",
+            "example": "We used logrolling – they got extended payment terms, we got a larger order."
+          },
+          {
+            "word": "Renegotiation",
+            "ipa": "/ˌriː.nɪˌɡəʊ.ʃiˈeɪ.ʃən/",
+            "meaning": "Revisiting agreed terms.",
+            "example": "Supply chain issues forced renegotiation of deadlines."
+          },
+          {
+            "word": "Stalemate",
+            "ipa": "/ˈsteɪl.meɪt/",
+            "meaning": "Deadlock where no progress is made.",
+            "example": "Talks reached a stalemate over exclusivity clauses."
+          },
+          {
+            "word": "Standstill",
+            "ipa": "/ˈstænd.stɪl/",
+            "meaning": "Temporary pause in negotiations.",
+            "example": "The standstill lasted two weeks while lawyers reviewed terms."
+          },
+          {
+            "word": "Trade-off",
+            "ipa": "/ˈtreɪd.ɒf/",
+            "meaning": "Exchanging one concession for another.",
+            "example": "We accepted a trade-off: lower price for slower delivery."
+          }
+        ]
+      },
+      {
+        "name": "Actions",
+        "items": [
+          {
+            "word": "To bluff",
+            "ipa": "/blʌf/",
+            "meaning": "Pretending to have a stronger position.",
+            "example": "He bluffed about having competing offers."
+          },
+          {
+            "word": "To concede",
+            "ipa": "/kənˈsiːd/",
+            "meaning": "Reluctantly agree to a demand.",
+            "example": "We conceded on price but got better payment terms."
+          },
+          {
+            "word": "To counter",
+            "ipa": "/ˈkaʊn.tər/",
+            "meaning": "Respond with an alternative offer.",
+            "example": "They countered our proposal with a 2-year contract."
+          },
+          {
+            "word": "To haggle",
+            "ipa": "/ˈhæɡ.əl/",
+            "meaning": "Argue over small details.",
+            "example": "We haggled for an hour over the warranty period."
+          },
+          {
+            "word": "To insist",
+            "ipa": "/ɪnˈsɪst/",
+            "meaning": "Demand firmly.",
+            "example": "The buyer insisted on a penalty clause."
+          },
+          {
+            "word": "To pretend",
+            "ipa": "/prɪˈtend/",
+            "meaning": "Feign a position for strategy.",
+            "example": "He pretended to have another offer to gain leverage."
+          },
+          {
+            "word": "To recap",
+            "ipa": "/ˈriː.kæp/",
+            "meaning": "Summarize agreed points.",
+            "example": "Let me recap: 5,000 units at $12 each by June."
+          },
+          {
+            "word": "To threaten",
+            "ipa": "/ˈθret.ən/",
+            "meaning": "Warn of negative consequences.",
+            "example": "They threatened to walk away if we didn’t lower the price."
+          },
+          {
+            "word": "To undercut",
+            "ipa": "/ˌʌn.dəˈkʌt/",
+            "meaning": "Offer a better deal than competitors.",
+            "example": "We undercut their bid by 15% to win the contract."
+          },
+          {
+            "word": "To withdraw",
+            "ipa": "/wɪðˈdrɔː/",
+            "meaning": "Remove an offer from consideration.",
+            "example": "After no compromise, we withdrew our proposal."
+          }
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          { "word": "Assertive", "ipa": "/əˈsɜː.tɪv/", "meaning": "Confident without aggression.", "example": "Her assertive tone secured respect." },
+          { "word": "Lenient", "ipa": "/ˈliː.ni.ənt/", "meaning": "Willing to bend rules.", "example": "They were lenient about the deadline." },
+          { "word": "Moderate", "ipa": "/ˈmɒd.ər.ət/", "meaning": "Reasonable, not extreme.", "example": "We proposed a moderate price increase." },
+          { "word": "Principled", "ipa": "/ˈprɪn.sə.pəld/", "meaning": "Guided by strong ethics.", "example": "He took a principled stand against exploitative terms." },
+          { "word": "Reluctant", "ipa": "/rɪˈlʌk.tənt/", "meaning": "Hesitant to agree.", "example": "The seller was reluctant to extend the warranty." },
+          { "word": "Resentful", "ipa": "/rɪˈzent.fəl/", "meaning": "Feeling bitter about unfairness.", "example": "The team grew resentful after constant concessions." },
+          { "word": "Tit-for-tat", "ipa": "/ˌtɪt.fəˈtæt/", "meaning": "Responding in kind.", "example": "We adopted a tit-for-tat concession approach." },
+          { "word": "Vague", "ipa": "/veɪɡ/", "meaning": "Unclear or ambiguous.", "example": "Their delivery terms were deliberately vague." },
+          { "word": "Wary", "ipa": "/ˈweə.ri/", "meaning": "Cautious or suspicious.", "example": "Investors were wary of the contract’s fine print." },
+          { "word": "Zealous", "ipa": "/ˈzel.əs/", "meaning": "Overly aggressive.", "example": "His zealous demands alienated the vendor." }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "Best and final offer", "ipa": "/ˌbest ən ˈfaɪ.nəl ˈɒ.fər/", "meaning": "Last proposal before walking away.", "example": "$50,000 is our best and final offer." },
+          { "word": "Bottom line", "ipa": "/ˌbɒt.əm ˈlaɪn/", "meaning": "Minimum acceptable terms.", "example": "Our bottom line is 30% upfront payment." },
+          { "word": "Fine print", "ipa": "/ˈfaɪn ˌprɪnt/", "meaning": "Contract details in small text.", "example": "Always review the fine print for hidden clauses." },
+          { "word": "Give and take", "ipa": "/ˌɡɪv ən ˈteɪk/", "meaning": "Mutual compromise.", "example": "Successful deals require give and take." },
+          { "word": "Hardball tactics", "ipa": "/ˈhɑːd.bɔːl ˈtæk.tɪks/", "meaning": "Aggressive negotiation methods.", "example": "They played hardball by freezing all communications." },
+          { "word": "No hard feelings", "ipa": "/nəʊ hɑːd ˈfiː.lɪŋz/", "meaning": "Maintaining professionalism.", "example": "Though we disagreed, we parted with no hard feelings." },
+          { "word": "Quid pro quo", "ipa": "/ˌkwɪd prəʊ ˈkwəʊ/", "meaning": "\"This for that\" exchange.", "example": "We agreed to a quid pro quo: training for testimonials." },
+          { "word": "To break the deadlock", "ipa": "/tu breɪk ðə ˈded.lɒk/", "meaning": "Resolve an impasse.", "example": "A third-party mediator helped break the deadlock." },
+          { "word": "To find common ground", "ipa": "/tu faɪnd ˈkɒm.ən ɡraʊnd/", "meaning": "Identify shared interests.", "example": "We found common ground on quality standards." },
+          { "word": "To meet halfway", "ipa": "/tu miːt ˌhɑːfˈweɪ/", "meaning": "Compromise equally.", "example": "Let’s meet halfway at $45 per unit." },
+          { "word": "To stand your ground", "ipa": "/tu stænd jɔː ɡraʊnd/", "meaning": "Refuse to concede.", "example": "We stood our ground on intellectual property rights." }
+        ]
+      }
+    ]
+  }
+  

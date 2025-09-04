@@ -1,0 +1,67 @@
+{
+    "title": "Business Correspondence",
+    "categories": [
+      {
+        "name": "Vocabulary",
+        "items": [
+          { "word": "Accommodation", "ipa": "", "meaning": "Adjustment or special arrangement.", "example": "We can make accommodation for late submissions under special circumstances." },
+          { "word": "Autoresponder", "ipa": "", "meaning": "An automatic email reply when someone is unavailable.", "example": "Set up an autoresponder when you’re on vacation." },
+          { "word": "Copyright", "ipa": "", "meaning": "Legal protection for original creative work.", "example": "The document is protected by copyright law." },
+          { "word": "Disposal", "ipa": "", "meaning": "The act of getting rid of something (e.g., documents).", "example": "Follow company policy for the disposal of confidential files." },
+          { "word": "Docket", "ipa": "", "meaning": "A summary or record of documents.", "example": "The legal team reviewed the case docket." },
+          { "word": "Enclosure", "ipa": "", "meaning": "A document included with a letter.", "example": "Please see the enclosure for additional details." },
+          { "word": "Formatting", "ipa": "", "meaning": "The layout and structure of a document.", "example": "Proper formatting makes reports easier to read." },
+          { "word": "Postage", "ipa": "", "meaning": "The cost of mailing a letter or package.", "example": "International postage rates have increased this year." },
+          { "word": "Readability", "ipa": "", "meaning": "How easy a text is to understand.", "example": "Short sentences improve readability." },
+          { "word": "Signature", "ipa": "", "meaning": "The sender’s name and contact details at the end of an email.", "example": "Always include a professional email signature." }
+        ]
+      },
+      {
+        "name": "Actions",
+        "items": [
+          { "word": "To disclose", "ipa": "", "meaning": "To reveal confidential information.", "example": "Employees must not disclose client data without permission." },
+          { "word": "To disseminate", "ipa": "", "meaning": "To distribute information widely.", "example": "The manager disseminated the new policy to all staff." },
+          { "word": "To draft", "ipa": "", "meaning": "To write a preliminary version.", "example": "She drafted a response but hasn’t sent it yet." },
+          { "word": "To encrypt", "ipa": "", "meaning": "To secure data with a code.", "example": "Always encrypt sensitive emails." },
+          { "word": "To endorse", "ipa": "", "meaning": "To approve or support publicly.", "example": "The CEO endorsed the new initiative." },
+          { "word": "To enquire", "ipa": "", "meaning": "To ask for information formally.", "example": "I’ll enquire about the delivery status." },
+          { "word": "To ghostwrite", "ipa": "", "meaning": "To write on behalf of someone else.", "example": "The assistant ghostwrote the executive’s speech." },
+          { "word": "To liaise", "ipa": "", "meaning": "To coordinate between groups.", "example": "Our team will liaise with the marketing department." },
+          { "word": "To notarize", "ipa": "", "meaning": "To certify a document with a notary.", "example": "The contract must be notarized to be valid." },
+          { "word": "To watermark", "ipa": "", "meaning": "To add a faint background design (e.g., \"Confidential\").", "example": "Watermark the draft to prevent unauthorized use." }
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          { "word": "Concise", "ipa": "", "meaning": "Brief and to the point.", "example": "Keep your emails concise for clarity." },
+          { "word": "Date-stamped", "ipa": "", "meaning": "Marked with a date.", "example": "The contract was hand-delivered to the client." },
+          { "word": "Error-ridden", "ipa": "", "meaning": "Full of mistakes.", "example": "The error-ridden report had to be rewritten." },
+          { "word": "Hand-delivered", "ipa": "", "meaning": "Physically carried to the recipient.", "example": "The contract was hand-delivered to the client." },
+          { "word": "In-house", "ipa": "", "meaning": "Internal to a company.", "example": "Use in-house templates for consistency." },
+          { "word": "Mailed-out", "ipa": "", "meaning": "Sent by postal service.", "example": "The invitations were mailed-out last week." },
+          { "word": "Multipart", "ipa": "", "meaning": "Having multiple sections.", "example": "Complete the multipart form carefully." },
+          { "word": "Non-returnable", "ipa": "", "meaning": "Cannot be sent back.", "example": "Samples are non-returnable after opening." },
+          { "word": "On-record", "ipa": "", "meaning": "Officially documented.", "example": "The statement was made on-record." },
+          { "word": "Word-processed", "ipa": "", "meaning": "Typed digitally (not handwritten).", "example": "Submit word-processed documents only." }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "As per our conversation…", "ipa": "", "meaning": "Referring to a previous discussion.", "example": "As per our conversation, here’s the updated proposal." },
+          { "word": "Attached herewith…", "ipa": "", "meaning": "Formal way to mention an attachment.", "example": "Attached herewith is the signed agreement." },
+          { "word": "Due to unforeseen circumstances…", "ipa": "", "meaning": "Explaining unexpected issues.", "example": "Due to unforeseen circumstances, the meeting is postponed." },
+          { "word": "In accordance with…", "ipa": "", "meaning": "Following rules or policies.", "example": "In accordance with GDPR, we protect your data." },
+          { "word": "We apologize for any inconvenience caused.", "ipa": "", "meaning": "Formal apology.", "example": "We apologize for any inconvenience caused by the delay." },
+          { "word": "BCC (Blind Carbon Copy)", "ipa": "", "meaning": "Sending a hidden copy of an email.", "example": "Use BCC to protect recipients’ privacy." },
+          { "word": "CC (Carbon Copy)", "ipa": "", "meaning": "Sending a copy to another recipient.", "example": "Always CC the manager on important emails." },
+          { "word": "Bulk Email", "ipa": "", "meaning": "A mass-sent message (e.g., newsletters).", "example": "Our bulk email campaign reached 10,000 subscribers." },
+          { "word": "Junk mail", "ipa": "", "meaning": "Unwanted promotional emails.", "example": "Check your junk mail folder for missing messages." },
+          { "word": "Letter of Intent", "ipa": "", "meaning": "A document expressing interest in a deal.", "example": "The buyer submitted a letter of intent." },
+          { "word": "Opt-In/Opt-Out", "ipa": "", "meaning": "Choosing to receive/stop emails.", "example": "The customer chose to opt out of marketing emails." }
+        ]
+      }
+    ]
+  }
+  

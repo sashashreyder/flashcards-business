@@ -1,0 +1,67 @@
+{
+    "title": "The Future of Investments",
+    "categories": [
+      {
+        "name": "Vocabulary",
+        "items": [
+          { "word": "Asset", "ipa": "/ˈæs.et/", "meaning": "Anything of value owned.", "example": "Her assets include stocks and a condo." },
+          { "word": "Blockchain", "ipa": "/ˈblɒk.tʃeɪn/", "meaning": "Digital ledger recording transactions.", "example": "Bitcoin transactions are recorded on blockchain." },
+          { "word": "Commodity", "ipa": "/kəˈmɒ.də.ti/", "meaning": "Basic goods (oil, gold, wheat).", "example": "Farmers often trade agricultural commodities." },
+          { "word": "Futures", "ipa": "/ˈfjuː.tʃəz/", "meaning": "Contracts to buy/sell at future prices.", "example": "Oil futures help airlines hedge fuel costs." },
+          { "word": "Micro-investing", "ipa": "/ˈmaɪ.krəʊ ɪnˈvest.ɪŋ/", "meaning": "Investing small amounts regularly.", "example": "Micro-investing apps round up purchases to invest." },
+          { "word": "Robo-advisor", "ipa": "/ˈrəʊ.bəʊ ədˌvaɪ.zər/", "meaning": "Automated investment platform.", "example": "Robo-advisors manage portfolios with algorithms." },
+          { "word": "Stocks", "ipa": "/stɒks/", "meaning": "Shares of company ownership.", "example": "She owns stocks in Apple and Microsoft." },
+          { "word": "Tokenization", "ipa": "/ˌtəʊ.kə.naɪˈzeɪ.ʃən/", "meaning": "Converting assets into digital tokens.", "example": "Tokenization makes fine art investments accessible." },
+          { "word": "Unicorn", "ipa": "/ˈjuː.nɪ.kɔːn/", "meaning": "Startup valued over $1 billion.", "example": "Before its IPO, Uber was a unicorn." },
+          { "word": "Web3", "ipa": "/web θriː/", "meaning": "Decentralized internet using blockchain.", "example": "Web3 aims to give users control of their data." }
+        ]
+      },
+      {
+        "name": "Actions",
+        "items": [
+          { "word": "To algorithmize", "ipa": "/əˈlɡərɪðmaɪz/", "meaning": "To convert strategies into trading algorithms.", "example": "Hedge funds algorithmize arbitrage opportunities." },
+          { "word": "To compound", "ipa": "/ˈkɒmpaʊnd/", "meaning": "To grow investments through reinvested earnings.", "example": "Compounding turns 100 a month into 150,000 in 30 years." },
+          { "word": "To crowdfund", "ipa": "/ˈkraʊdˌfʌnd/", "meaning": "To raise money from many small investors.", "example": "The startup crowdfunded $2 million online." },
+          { "word": "To derisk", "ipa": "/diːˈrɪsk/", "meaning": "To reduce investment risk.", "example": "We derisked by adding government bonds." },
+          { "word": "To exercise", "ipa": "/ˈeksəsaɪz/", "meaning": "To use an option to buy/sell.", "example": "She exercised her call option at $50/share." },
+          { "word": "To fractionalize", "ipa": "/ˈfrækʃənəlaɪz/", "meaning": "To divide assets into smaller shares.", "example": "Platforms fractionalize expensive real estate." },
+          { "word": "To nest", "ipa": "/nest/", "meaning": "To shelter assets in protected structures.", "example": "Investors nest funds in Swiss accounts." },
+          { "word": "To shard", "ipa": "/ʃɑːd/", "meaning": "To split blockchain networks to improve speed.", "example": "Ethereum sharding will reduce transaction fees." },
+          { "word": "To stake", "ipa": "/steɪk/", "meaning": "To lock up crypto to earn rewards.", "example": "Stake your ETH to earn 5% annual interest." },
+          { "word": "To vest", "ipa": "/vest/", "meaning": "To gain full ownership over time.", "example": "Employee stock options vest over 4 years." }
+        ]
+      },
+      {
+        "name": "Other",
+        "items": [
+          { "word": "Accretive", "ipa": "/əˈkriːtɪv/", "meaning": "Increasing value per share.", "example": "The merger was accretive to earnings." },
+          { "word": "Bifurcated", "ipa": "/ˈbaɪ.fɚ.keɪ.tɪd/", "meaning": "Split into two distinct parts.", "example": "The market shows bifurcated performance." },
+          { "word": "Contrarily", "ipa": "/kənˈtrer.əl.i/", "meaning": "Against market consensus.", "example": "He invested contrarily during the panic." },
+          { "word": "Defensive", "ipa": "/dɪˈfen.sɪv/", "meaning": "Performs well in downturns.", "example": "Utilities are defensive stocks." },
+          { "word": "Flow-driven", "ipa": "/floʊ ˈdrɪv.ən/", "meaning": "Influenced by investment inflows.", "example": "The rally appears flow-driven." },
+          { "word": "Index-arbitraged", "ipa": "/ˈɪn.deks ˈɑː.bɪ.trɑːʒd/", "meaning": "Exploiting ETF/futures price gaps.", "example": "The position was index-arbitraged." },
+          { "word": "Range-bound", "ipa": "/ˈreɪndʒ baʊnd/", "meaning": "Trading between price limits.", "example": "Gold has been range-bound for months." },
+          { "word": "Sideways", "ipa": "/ˈsaɪd.weɪz/", "meaning": "Neither rising nor falling significantly.", "example": "The market moved sideways last quarter." },
+          { "word": "Undervalued", "ipa": "/ˌʌn.dɚˈvæl.juːd/", "meaning": "Priced below true worth.", "example": "Value investors seek undervalued stocks." },
+          { "word": "Yieldless", "ipa": "/ˈjiːld.ləs/", "meaning": "Offering minimal returns.", "example": "Savings accounts are yieldless now." }
+        ]
+      },
+      {
+        "name": "Phrases",
+        "items": [
+          { "word": "DeFi (Decentralized finance)", "meaning": "Financial services without banks.", "example": "DeFi platforms offer crypto loans." },
+          { "word": "ETF (Exchange-Traded Fund)", "meaning": "Bundle of assets traded like a stock.", "example": "SPY is a popular S&P 500 ETF." },
+          { "word": "HODL (Hold Crypto Despite Volatility)", "meaning": "Crypto investor slang for holding.", "example": "True believers HODL through crashes." },
+          { "word": "NFT (Non-Fungible Token)", "meaning": "Unique digital ownership certificate.", "example": "NFTs verify ownership of digital art." },
+          { "word": "REIT (Real Estate Investment Trust)", "meaning": "Company owning income-producing real estate.", "example": "Investing in a REIT provides rental income without buying property." },
+          { "word": "AI-driven investing", "meaning": "Using artificial intelligence to make investment decisions.", "example": "AI-driven investing analyzes millions of data points instantly." },
+          { "word": "Green bonds", "meaning": "Bonds funding environmentally friendly projects.", "example": "The city issued green bonds for solar panel installations." },
+          { "word": "Quantitative Easing", "meaning": "Central banks buying assets to stimulate economy.", "example": "The Fed used quantitative easing after the 2008 crisis." },
+          { "word": "Space economy investments", "meaning": "Funding space exploration/satellite businesses.", "example": "SpaceX attracted many space economy investors." },
+          { "word": "Tokenized real estate", "meaning": "Property ownership divided into digital tokens.", "example": "Tokenized real estate lets people buy small shares of buildings." },
+          { "word": "Wealth management", "meaning": "Professional investment advisory services.", "example": "High-net-worth individuals use wealth management." }
+        ]
+      }
+    ]
+  }
+  
