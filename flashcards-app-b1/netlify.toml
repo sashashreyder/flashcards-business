@@ -2,3 +2,6 @@
   base    = "flashcards-app-b1"
   command = "npm run build"
   publish = "flashcards-app-b1/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
