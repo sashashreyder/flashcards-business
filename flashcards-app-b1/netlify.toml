@@ -1,0 +1,4 @@
+[build]
+  base    = "flashcards-app-b1"
+  command = "npm run build"
+  publish = "flashcards-app-b1/dist"
