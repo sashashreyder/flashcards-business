@@ -31,40 +31,34 @@ const Flashcards: React.FC<FlashcardsProps> = ({ items }) => {
     <div className="flex flex-col items-center gap-6">
 
       <div
-        className="w-[155%] max-w-lg h-64 sm:h-80 [perspective:1000px] cursor-pointer"
+  className="w-[90vw] max-w-md aspect-[3/2] [perspective:1000px] cursor-pointer"
+  onClick={() => setFlipped(!flipped)}
+>
+  <div
+    className={`relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] ${
+      flipped ? "[transform:rotateY(180deg)]" : ""
+    }`}
+  >
+    <div className="absolute w-full h-full [backface-visibility:hidden] bg-sky-500 text-white flex flex-col justify-center items-center rounded-xl shadow-lg p-6">
+      <h2 className="text-xl sm:text-2xl font-bold text-center">
+        {current.word}
+      </h2>
+      {current.ipa && (
+        <p className="text-white/80 mt-2 text-base">{current.ipa}</p>
+      )}
+      <p className="text-sm mt-4 opacity-80">👆 Tap to flip</p>
+    </div>
 
-
-        onClick={() => setFlipped(!flipped)}
-      >
-        <div
-          className={`relative w-full h-full transition-transform duration-700 [transform-style:preserve-3d] ${
-            flipped ? "[transform:rotateY(180deg)]" : ""
-          }`}
-        >
-
-          <div className="absolute w-full h-full [backface-visibility:hidden] bg-sky-500 text-white flex flex-col justify-center items-center rounded-xl shadow-lg p-6">
-            <h2 className="text-lg sm:text-2xl font-bold text-center">
-              {current.word}
-            </h2>
-            {current.ipa && (
-              <p className="text-white/80 mt-2 text-sm sm:text-base">
-                {current.ipa}
-              </p>
-            )}
-            <p className="text-xs sm:text-sm mt-4 opacity-80">👆 Tap to flip</p>
-          </div>
-
-
-          <div className="absolute w-full h-full [backface-visibility:hidden] [transform:rotateY(180deg)] bg-orange-400 text-white flex flex-col justify-center items-center rounded-xl shadow-lg p-6">
-            <p className="text-base sm:text-lg text-center">
-              {current.meaning}
-            </p>
-            <p className="text-xs sm:text-sm mt-2 italic opacity-80 text-center">
-              {current.example}
-            </p>
-          </div>
-        </div>
-      </div>
+    <div className="absolute w-full h-full [backface-visibility:hidden] [transform:rotateY(180deg)] bg-orange-400 text-white flex flex-col justify-center items-center rounded-xl shadow-lg p-6">
+      <p className="text-lg sm:text-xl text-center">
+        {current.meaning}
+      </p>
+      <p className="text-sm mt-2 italic opacity-80 text-center">
+        {current.example}
+      </p>
+    </div>
+  </div>
+</div>
 
 
       <div className="flex gap-4">
